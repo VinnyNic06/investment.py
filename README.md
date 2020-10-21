@@ -1,2 +1,2 @@
 # investment.py
-python project funning investment options and equations
+python project featuring investment options and equations
